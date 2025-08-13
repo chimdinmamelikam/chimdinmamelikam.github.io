@@ -1,11 +1,19 @@
 # 👋 Hi, I'm Chimdinma Melikam  
-**Data Analyst | Problem Solver | Tech Enthusiast**
+**Data Analyst | Problem Solver | Tech Enthusiast | Helping Tech Professionals Build Stunning Portfolio Websites**
 
 Welcome to my GitHub profile!  
-I’m a Data Analyst with a Computer Science background, passionate about transforming raw data into actionable insights.  
-Here you’ll find my projects in **Excel**, **Power BI**, and **SQL**, along with my journey into the tech space.
+I’m a **Data Analyst** with a **Computer Science degree** and a passion for transforming data into actionable insights that drive informed decision-making.  
+With expertise in **Excel, Power BI, SQL, and Data Visualization**, I create meaningful dashboards and reports that tell compelling stories.  
+
+Beyond data, I also **design and develop beautiful portfolio websites** for tech professionals using **GitHub Pages** — helping you showcase your skills and stand out in the tech space.
+
 
 ---
+## 🌟 What I Do
+- 📊 **Data Analysis**: Turning raw data into clear, actionable insights.
+- 📈 **Data Visualization**: Designing interactive dashboards in Power BI and Excel.
+- 💻 **Portfolio Websites**: Creating polished, fast, and professional sites using GitHub Pages.
+- 🛠 **Tech Tools**: Excel, Power BI, SQL, GitHub, HTML/CSS basics.
 
 ## 🚀 About Me
 - 🎓 Degree in Computer Science from **Nnamdi Azikiwe University**  
